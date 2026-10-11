@@ -1,4 +1,5 @@
 # DegreePilot
+https://degree-pilot-eight.vercel.app/
 
 AI degree planner. Describe your goals and DegreePilot builds a semester-by-semester course roadmap that meets your degree requirements, respects prerequisites and the terms each course is offered, and shows who teaches each course along with their reviews.
 
